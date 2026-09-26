@@ -47,3 +47,7 @@ The detailed system description and integration requirements will be developed a
 
 /integration
     Integration scripts and configurations
+
+    ## Repository Setup
+
+Initial repository setup and project documentation were prepared by the Team Fixers.
