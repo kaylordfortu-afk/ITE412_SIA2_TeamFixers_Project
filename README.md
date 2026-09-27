@@ -8,7 +8,7 @@
 |---|---|
 | Kaylord | Team Leader |
 | Jennelyn | Documenter |
-| Lourences | Presenter |
+| Lourences Vargas | Presenter |
 | Jordan | Diagrammer |
 
 ---
