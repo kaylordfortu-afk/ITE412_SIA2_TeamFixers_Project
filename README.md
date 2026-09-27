@@ -7,7 +7,7 @@
 | Name | Role |
 |---|---|
 | Kaylord | Team Leader |
-| Jennelyn Lizardo | Documenter |
+| Jennelyn Labay | Documenter |
 | Lourences | Presenter |
 | Jordan | Diagrammer |
 
