@@ -6,7 +6,7 @@
 
 | Name | Role |
 |---|---|
-| Kaylord | Team Leader |
+| Kaylord Cabral| Team Leader |
 | Jennelyn Lizardo | Documenter |
 | Lourences Vargas | Presenter |
 | Jordan | Diagrammer |
