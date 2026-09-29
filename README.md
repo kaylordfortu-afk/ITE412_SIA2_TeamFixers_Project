@@ -9,7 +9,7 @@
 | Kaylord Cabral| Team Leader |
 | Jennelyn Lizardo | Documenter |
 | Lourences Vargas | Presenter |
-| Jordan | Diagrammer |
+| Jordan Maxion | Diagrammer |
 
 ---
 
