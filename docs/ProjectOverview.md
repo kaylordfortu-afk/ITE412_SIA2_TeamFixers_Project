@@ -149,3 +149,26 @@ FIXIFY is a proposed mobile application that aims to connect customers with mobi
 The system will integrate different components including authentication, database services, repair requests, communication, service information, and user feedback.
 
 The GitHub repository will serve as the team's central workspace for documentation, source code, testing files, and integration configurations throughout the semester.
+
+---
+
+## Integration Pattern & Rationale
+
+### Integration Pattern
+
+FIXIFY will use a **REST-based integration pattern** for communication between the mobile application and backend services. The REST API will provide HTTP endpoints for the Customer and Repair Shop modules.
+
+The API will use standard HTTP methods:
+
+* **GET** – retrieve customer and repair shop records
+* **POST** – create new customer and repair shop records
+* **PUT** – update existing records
+* **DELETE** – remove existing records
+
+For the initial implementation, the REST API will use dummy in-memory data. A database may be integrated in a future development phase.
+
+### Rationale
+
+REST was selected because it is simple, lightweight, and suitable for communication between mobile applications and backend services. It uses standard HTTP methods and JSON data, making the API easy to test using Postman and easy to integrate with the planned FIXIFY mobile application.
+
+The REST approach also allows the Customer and Repair Shop modules to remain separate while communicating through well-defined API endpoints. This supports modular development and makes it easier to expand FIXIFY with additional modules such as Repair Requests, Notifications, Messaging, and Ratings in future iterations.
